@@ -34,7 +34,7 @@ class Player extends Component {
                 <Square 
                     size={size}
                     position={{ top, left }}
-                    color='darkgray' />
+                    color='#E62E66' />
             </div>
             
         );

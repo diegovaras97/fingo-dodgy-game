@@ -21,7 +21,7 @@ class Enemy extends Component {
             <Square 
                 size={size}
                 position={{ top, left }}
-                color='firebrick' />
+                color='#5A5A5A' />
         );
     }
 }

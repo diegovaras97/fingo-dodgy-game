@@ -9,7 +9,8 @@ const style = ({ size, position, color }) => {
         position: 'absolute',
         top: position.top + 'px',
         left: position.left + 'px',
-        transition: 'all 0.1s ease'
+        transition: 'all 0.1s ease',
+        borderRadius: '8px'
     };
 };
 

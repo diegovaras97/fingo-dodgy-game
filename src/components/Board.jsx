@@ -8,7 +8,9 @@ const style = (dimension) => {
         border: '1px solid black',
         position: 'relative',
         margin: '25px auto',
-        overflow: 'hidden'
+        overflow: 'hidden',
+        borderRadius: '8px',
+        borderStyle: 'dashed'
     };
 };
 
